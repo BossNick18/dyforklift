@@ -4,7 +4,7 @@ import Driver from './Driver';
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/driver/:id" element={<Driver />} />
         <Route path="/" element={<div>Home Page</div>} />
