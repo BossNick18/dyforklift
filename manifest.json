@@ -1,17 +1,17 @@
 {
-  "short_name": "Notifier",
-  "name": "Forklift Notifier",
+  "short_name": "Forklift Notifier",
+  "name": "Forklift Notifier App",
   "icons": [
-      {
-          "src": "icon-192x192.png",
-          "type": "image/png",
-          "sizes": "192x192"
-      },
-      {
-          "src": "icon-512x512.png",
-          "type": "image/png",
-          "sizes": "512x512"
-      }
+    {
+      "src": "icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
   ],
   "start_url": ".",
   "display": "standalone",
