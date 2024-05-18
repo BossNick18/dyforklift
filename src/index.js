@@ -1,17 +1,26 @@
+// src/index.js
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 import reportWebVitals from './reportWebVitals';
+import { messaging } from './firebaseConfig';
+import { onMessage } from 'firebase/messaging';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
+// Initialize Firebase messaging listener
+onMessage(messaging, (payload) => {
+  console.log('Message received. ', payload);
+  // Customize notification here
+});
+
+ReactDOM.render(
   <React.StrictMode>
     <App />
-  </React.StrictMode>
+  </React.StrictMode>,
+  document.getElementById('root')
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+serviceWorkerRegistration.register();
+
 reportWebVitals();
