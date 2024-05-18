@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dyforklift/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/dyforklift/static/js/main.90fb7470.chunk.js",
+    "main.js.map": "/dyforklift/static/js/main.90fb7470.chunk.js.map",
+    "runtime-main.js": "/dyforklift/static/js/runtime-main.ff95b75e.js",
+    "runtime-main.js.map": "/dyforklift/static/js/runtime-main.ff95b75e.js.map",
+    "static/js/2.da7c2f61.chunk.js": "/dyforklift/static/js/2.da7c2f61.chunk.js",
+    "static/js/2.da7c2f61.chunk.js.map": "/dyforklift/static/js/2.da7c2f61.chunk.js.map",
+    "static/js/3.8a7021dc.chunk.js": "/dyforklift/static/js/3.8a7021dc.chunk.js",
+    "static/js/3.8a7021dc.chunk.js.map": "/dyforklift/static/js/3.8a7021dc.chunk.js.map",
+    "index.html": "/dyforklift/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/dyforklift/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.da7c2f61.chunk.js.LICENSE.txt": "/dyforklift/static/js/2.da7c2f61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff95b75e.js",
+    "static/js/2.da7c2f61.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.90fb7470.chunk.js"
+  ]
+}
