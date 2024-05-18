@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/dyforklift/static/js/main.0ae74261.chunk.js",
-    "main.js.map": "/dyforklift/static/js/main.0ae74261.chunk.js.map",
+    "main.js": "/dyforklift/static/js/main.e028cc68.chunk.js",
+    "main.js.map": "/dyforklift/static/js/main.e028cc68.chunk.js.map",
     "runtime-main.js": "/dyforklift/static/js/runtime-main.69fe1599.js",
     "runtime-main.js.map": "/dyforklift/static/js/runtime-main.69fe1599.js.map",
-    "static/js/2.c5ad8588.chunk.js": "/dyforklift/static/js/2.c5ad8588.chunk.js",
-    "static/js/2.c5ad8588.chunk.js.map": "/dyforklift/static/js/2.c5ad8588.chunk.js.map",
+    "static/js/2.c9c1b324.chunk.js": "/dyforklift/static/js/2.c9c1b324.chunk.js",
+    "static/js/2.c9c1b324.chunk.js.map": "/dyforklift/static/js/2.c9c1b324.chunk.js.map",
     "index.html": "/dyforklift/index.html",
-    "static/js/2.c5ad8588.chunk.js.LICENSE.txt": "/dyforklift/static/js/2.c5ad8588.chunk.js.LICENSE.txt"
+    "static/js/2.c9c1b324.chunk.js.LICENSE.txt": "/dyforklift/static/js/2.c9c1b324.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.69fe1599.js",
-    "static/js/2.c5ad8588.chunk.js",
-    "static/js/main.0ae74261.chunk.js"
+    "static/js/2.c9c1b324.chunk.js",
+    "static/js/main.e028cc68.chunk.js"
   ]
 }
