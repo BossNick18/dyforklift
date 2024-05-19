@@ -8,7 +8,6 @@ const firebaseConfig = {
   storageBucket: "diyouforklfitapp.appspot.com",
   messagingSenderId: "728063402975",
   appId: "1:728063402975:web:ef09e7cb6df5ef0ddcda6a",
-  measurementId: "G-2QJDPH5EGW"
 };
 
 firebase.initializeApp(firebaseConfig);
