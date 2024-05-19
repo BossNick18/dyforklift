@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "643e7fd1469a73ff432b2b3980ccd011",
+    "revision": "2a8b128897d54e573dad822900895789",
     "url": "/dyforklift/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dyforklift/static/js/2.8daa132f.chunk.js"
   },
   {
-    "revision": "68a398a886fd0a17ff49",
-    "url": "/dyforklift/static/js/main.977d3e13.chunk.js"
+    "revision": "cb89cfecdd79c7460f74",
+    "url": "/dyforklift/static/js/main.5b4ce507.chunk.js"
   },
   {
     "revision": "66c4369c9530a9c9f606",
