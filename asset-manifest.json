@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/dyforklift/static/js/main.1a7f67db.chunk.js",
-    "main.js.map": "/dyforklift/static/js/main.1a7f67db.chunk.js.map",
+    "main.js": "/dyforklift/static/js/main.0692a63a.chunk.js",
+    "main.js.map": "/dyforklift/static/js/main.0692a63a.chunk.js.map",
     "runtime-main.js": "/dyforklift/static/js/runtime-main.69fe1599.js",
     "runtime-main.js.map": "/dyforklift/static/js/runtime-main.69fe1599.js.map",
     "static/js/2.322193b3.chunk.js": "/dyforklift/static/js/2.322193b3.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.69fe1599.js",
     "static/js/2.322193b3.chunk.js",
-    "static/js/main.1a7f67db.chunk.js"
+    "static/js/main.0692a63a.chunk.js"
   ]
 }
