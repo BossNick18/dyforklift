@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/dyforklift/static/js/main.048f86bf.chunk.js",
-    "main.js.map": "/dyforklift/static/js/main.048f86bf.chunk.js.map",
+    "main.js": "/dyforklift/static/js/main.dd513242.chunk.js",
+    "main.js.map": "/dyforklift/static/js/main.dd513242.chunk.js.map",
     "runtime~main.js": "/dyforklift/static/js/runtime~main.0ca37682.js",
     "runtime~main.js.map": "/dyforklift/static/js/runtime~main.0ca37682.js.map",
-    "static/js/2.8daa132f.chunk.js": "/dyforklift/static/js/2.8daa132f.chunk.js",
-    "static/js/2.8daa132f.chunk.js.map": "/dyforklift/static/js/2.8daa132f.chunk.js.map",
+    "static/js/2.326acb68.chunk.js": "/dyforklift/static/js/2.326acb68.chunk.js",
+    "static/js/2.326acb68.chunk.js.map": "/dyforklift/static/js/2.326acb68.chunk.js.map",
     "index.html": "/dyforklift/index.html",
-    "precache-manifest.9d6f3bf77d699c41606a2fe37e38e8a6.js": "/dyforklift/precache-manifest.9d6f3bf77d699c41606a2fe37e38e8a6.js",
+    "precache-manifest.f9d2bd35629c0498766515d94d4af949.js": "/dyforklift/precache-manifest.f9d2bd35629c0498766515d94d4af949.js",
     "service-worker.js": "/dyforklift/service-worker.js"
   }
 }

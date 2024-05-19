@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dyforklift/precache-manifest.9d6f3bf77d699c41606a2fe37e38e8a6.js"
+  "/dyforklift/precache-manifest.f9d2bd35629c0498766515d94d4af949.js"
 );
 
 self.addEventListener('message', (event) => {
